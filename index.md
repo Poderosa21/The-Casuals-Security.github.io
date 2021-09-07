@@ -2,13 +2,11 @@
 title: Inicio
 ---
 
-## The Casuals Security
-### Offensive Culture
+## OFFENSIVE CULTURE
 
-### Libreria 📕 📗 📘 📙
+### Cursos Online 📕 📗 📘 📙
 
-
-[Certified Ethical Hacker](https://github.com/The-Casuals-Security/thecasuals.github.io/blob/gh-pages/CEH.md)
+[Certified Ethical Hacker](https://www.youtube.com/watch?v=m0hzqNjspW4&list=PL7unP9iNmRYabryFRn0unEx41Rf8Lxc_P)
 
 ```markdown
 Syntax highlighted code block
