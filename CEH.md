@@ -1,3 +1,7 @@
+layout: page
+title: "CEH"
+permalink: /CEH/
+
 # CEH
 
 > Guia en español para CEH de EC-Coucil
