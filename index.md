@@ -1,15 +1,7 @@
 ## The Casuals Security
 ### Offensive Culture
 
-
-Libreria 📕 📗 📘 📙
-[Certified Ethical Hacker](https://github.com/The-Casuals-Security/thecasuals.github.io/edit/gh-pages/CEH.md)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Libreria 📕 📗 📘 📙
 
 ```markdown
 Syntax highlighted code block
@@ -18,8 +10,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+[Certified Ethical Hacker](https://github.com/The-Casuals-Security/thecasuals.github.io/edit/gh-pages/CEH.md)
 
 1. Numbered
 2. List
