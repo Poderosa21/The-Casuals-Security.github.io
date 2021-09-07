@@ -1,6 +1,7 @@
-layout: page
-title: "CEH"
-permalink: /CEH/
+- layout: page
+- title: "CEH"
+- permalink: /CEH/
+
 
 # CEH
 
