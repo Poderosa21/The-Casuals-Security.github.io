@@ -4,7 +4,7 @@
 ### Libreria 📕 📗 📘 📙
 
 
-[Certified Ethical Hacker](https://github.com/The-Casuals-Security/thecasuals.github.io/edit/gh-pages/CEH.md)
+[Certified Ethical Hacker](https://github.com/The-Casuals-Security/thecasuals.github.io/gh-pages/CEH.md)
 
 ```markdown
 Syntax highlighted code block
