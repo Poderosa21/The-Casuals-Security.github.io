@@ -27,7 +27,7 @@ Somos un Crew de Pentest en Mexico 🇲🇽 (REDACTED)
 
 > Tutoriales sobre certificaciones, herramientas, 
 
-[Certified Ethical Hacker](https://the-casuals-security.github.io/CEH/)
+[Certified Ethical Hacker](https://the-casuals-security.github.io/ceh)
 
 
 
