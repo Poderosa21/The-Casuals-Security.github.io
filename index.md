@@ -4,32 +4,31 @@ title: Inicio
 
 ## OFFENSIVE CULTURE
 
-### Cursos Online 📕 📗 📘 📙
-
-[Certified Ethical Hacker](https://www.youtube.com/watch?v=m0hzqNjspW4&list=PL7unP9iNmRYabryFRn0unEx41Rf8Lxc_P)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Somos un Crew de Pentest en Mexico 🇲🇽 (REDACTED)
 
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Canal Telegram
 
-### Jekyll Themes
+> Canal de telegram con noticias sobre ciberseguridad, informacion sobre vulnerabilidades, tutoriales, herramientas, CTF y demas.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/The-Casuals-Security/thecasuals.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Unete a Telegram](https://t.me/TheCasualsSecurity)
 
-### Support or Contact
+### Cursos y eventos
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> Sigue e incribite a nuestros eventos y cursos.
+
+[Eventos en Evenbrite](https://t.me/TheCasualsSecurity)
+
+### Tutoriales 📙 & 🎥
+
+> Tutoriales sobre certificaciones, herramientas, 
+
+[Certified Ethical Hacker](https://the-casuals-security.github.io/CEH)
+
+
+
+
