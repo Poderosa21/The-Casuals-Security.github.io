@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: pages
 title: CEH
-permalink: /CEH/
+permalink: /ceh
 ---
 # CEH
 
