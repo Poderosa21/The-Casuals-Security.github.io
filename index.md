@@ -21,7 +21,7 @@ Somos un Crew de Pentest en Mexico 🇲🇽 (REDACTED)
 
 > Sigue e incribite a nuestros eventos y cursos.
 
-[Eventos en Evenbrite](https://t.me/TheCasualsSecurity)
+[Eventos en Evenbrite](#)
 
 ### Tutoriales 📙 & 🎥
 
