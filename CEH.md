@@ -3,6 +3,7 @@ layout: pages
 title: Certified Etichal Hacker
 permalink: /CEH/
 ---
+
 # CEH
 
 Comparto una guia que se elabora con el equipo de The Casuals Security, para orientar sobre la certificacion de Hackeo Etico en español, cabe considerar que este curso brinda una perspectiva global sobre la ciberseguridad y sus amenazas, es aplicable en equipo de Blue Team (defensa) y Red Team (ataque).
