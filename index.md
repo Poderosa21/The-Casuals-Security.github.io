@@ -19,11 +19,11 @@ Somos un Crew de Pentest en Mexico 🇲🇽 (REDACTED)
 
 ### Cursos y eventos
 
-> Sigue e incribite a nuestros eventos y cursos.
+> Te interesa aprender de hackeo etico? Quieres tomar un curso con nosotros? Consulta aca nuestros cursos:
 
 [Eventos en Evenbrite](#)
 
-### Tutoriales 📙 & 🎥
+### Tutoriales Online 📙 & 🎥
 
 [Certified Ethical Hacker](https://www.youtube.com/watch?v=m0hzqNjspW4&list=PL7unP9iNmRYabryFRn0unEx41Rf8Lxc_P)
 
