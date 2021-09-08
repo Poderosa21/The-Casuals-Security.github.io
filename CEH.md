@@ -1,6 +1,8 @@
 ---
+theme: jekyll-theme-hacker
+layout: page
 title: "CEH"
-permalink: /CEH
+permalink: /CEH/
 ---
 
 # CEH
