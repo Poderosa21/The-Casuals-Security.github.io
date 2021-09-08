@@ -4,24 +4,23 @@
 
 
 ```markdown
-Somos:
-Crew de Pentest Mexicano 🇲🇽
-Queremos:
-Compartir conocimiento 🧠
-Hacemos:
-Learning Cyberseguridad 🔐
-
+whoami
+  Crew Pentest 🔐
+ps | grep 'objetive'
+  Learning Cybersecurity 🧠
+pwd
+  Crew Mexicano 🇲🇽
 ```
 
 ## Canal Telegram
 
-> Canal de telegram con noticias sobre ciberseguridad, informacion sobre vulnerabilidades, tutoriales, herramientas, CTF y demas.
+> Canal de Telegram, trucos, noticias, vulnerabilidades, exploits, tutoriales, herramientas, CTF y mas.
 
 [Unete a Telegram](https://t.me/TheCasualsSecurity)
 
 ## Cursos y eventos
 
-> Te interesa aprender de hackeo etico? Quieres tomar un curso con nosotros? Consulta aca nuestros cursos:
+> Te interesa aprender de hackeo etico? Quieres tomar un curso en vivo con nosotros? Consulta aqui la informacion:
 
 [Eventos en Evenbrite](#)
 
@@ -34,6 +33,6 @@ Learning Cyberseguridad 🔐
 
 ## Libreria 📙
 
-[Certified Ethical Hacker](https://www.youtube.com/watch?v=m0hzqNjspW4&list=PL7unP9iNmRYabryFRn0unEx41Rf8Lxc_P)
+### Certified Ethical Hacker
 
 > Guia rapida de la certificacion de hackeo etico (CEH)
