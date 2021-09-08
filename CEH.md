@@ -1,7 +1,7 @@
 ---
 layout: pages
-title: CEH
-permalink: /ceh
+title: Certified Etichal Hacker
+permalink: /CEH/
 ---
 # CEH
 
