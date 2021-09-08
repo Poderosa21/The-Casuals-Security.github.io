@@ -25,9 +25,15 @@ Somos un Crew de Pentest en Mexico 🇲🇽 (REDACTED)
 
 ### Tutoriales 📙 & 🎥
 
-> Tutoriales sobre certificaciones, herramientas, 
+[Certified Ethical Hacker](https://www.youtube.com/watch?v=m0hzqNjspW4&list=PL7unP9iNmRYabryFRn0unEx41Rf8Lxc_P)
 
-[Certified Ethical Hacker](https://the-casuals-security.github.io/CEH/)
+> Guia rapida de la certificacion de hackeo etico (CEH)
+
+[TryHackMe](https://www.youtube.com/watch?v=kx_1PCmRZb0&list=PL7unP9iNmRYaQE87epTLEVOf3hJ3-hPcE)
+
+> Tutoriales para resolver hackeos tipo Capture the flag en TryhackMe (CTF)
+
+
 
 
 
