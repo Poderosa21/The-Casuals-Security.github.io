@@ -2,18 +2,19 @@
 title: Inicio
 ---
 
-# The Casuals Security
-
 # Offensive Culture
 
 
 ```markdown
-whoami
-  Crew Pentest 🔐
-ps | grep 'objetive'
-  Learning Cybersecurity 🧠
-pwd
-  Crew Mexicano 🇲🇽
+$ whoami
+> Crew Pentest 🔐
+
+$ ps | grep 'objetive'
+>  Learning Cybersecurity 🧠
+
+$ pwd
+> Crew Mexicano 🇲🇽
+
 ```
 
 ## Canal Telegram
