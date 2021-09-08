@@ -45,8 +45,8 @@ $ pwd
 [EC-Coucil CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
 #### TEMARIO
-* **[1. Introducción a Ethical Hacking](~/CEH/tree/main/01/README.md)**
-* **[2. Footprinting y Reconocimiento](~/CEH/tree/main/02/README.md)**
+* **[1. Introducción a Ethical Hacking](https://the-casuals-security.github.io/Introduccion/)** 
+* **[2. Footprinting y Reconocimiento](https://the-casuals-security.github.io/Footprinting/)**
 * **[3. Escaneo de red](~/CEH/tree/main/03/README.md)**
 * **[4. Enumeración](https://github.com/heanczko311299/CEH/tree/main/04/README.md)**
 * **[5. Analisis de Vulnerabilidades](https://github.com/heanczko311299/CEH/tree/main/05/README.md)**
