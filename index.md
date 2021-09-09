@@ -18,7 +18,7 @@ $ pwd
 ```
 
 ## Nuestro Canal
-> Canal de ayuda, trucos, noticias, vulnerabilidades, exploits, tutoriales, herramientas, CTF y mas.
+> Canal gratuito de ayuda, trucos, noticias, vulnerabilidades, exploits, tutoriales, herramientas, CTF y mas.
 [Discord](https://discord.gg/3yyFBAxH)
 
 ## Tutoriales 🎥
@@ -31,7 +31,7 @@ $ pwd
 [Evenbrite](#)
 
 
-## Libreria 📙
+## Libreria Gratuita 📙
 
 ### Certified Ethical Hacker
 > Guia rapida para la certificacion de hackeo etico (CEH)
