@@ -55,6 +55,6 @@ $ pwd
 * **[15. SQL Injection](https://the-casuals-security.github.io/SQL/)**
 * **[16. Hacking WiFi](https://the-casuals-security.github.io/WiFi/)**
 * **[17. Hacking Mobile](https://the-casuals-security.github.io/Mobile/)**
-* **[18. IoT Hacking](https://the-casuals-security.github.io/IoT/)**
+* **[18. IoT Hacking](#)**
 * **[19. Cloud](https://the-casuals-security.github.io/Cloud/)**
 * **[20. Criptografia](https://the-casuals-security.github.io/Criptografia/)**
