@@ -17,13 +17,13 @@ $ pwd
 
 ```
 
-## Nuestro Canal
+## Nuestro Canal 💬
 > Canal gratuito de ayuda, trucos, noticias, vulnerabilidades, exploits, tutoriales, herramientas, CTF y mas.
 [Discord](https://discord.gg/s5SZHRxJan)
 
 ## Tutoriales 🎥
-> Canal de Youtube
-[TryHackMe](https://www.youtube.com/channel/UCTDFKIYJ4KIfZGE66w99lJQ)
+> Guia en videos de pentesting, no se mostraran flags de los CTF, pero si la guia de como se resuleve
+[YouTube](https://www.youtube.com/channel/UCTDFKIYJ4KIfZGE66w99lJQ)
 
 ## Libreria 📙
 
