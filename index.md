@@ -19,7 +19,7 @@ $ pwd
 
 ## Nuestro Canal
 > Canal gratuito de ayuda, trucos, noticias, vulnerabilidades, exploits, tutoriales, herramientas, CTF y mas.
-[Discord](https://discord.gg/3yyFBAxH)
+[Discord](https://discord.gg/s5SZHRxJan)
 
 ## Tutoriales 🎥
 > Tutoriales para resolver hackeos tipo Capture the flag en TryhackMe (CTF)
