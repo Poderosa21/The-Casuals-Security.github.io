@@ -20,22 +20,16 @@ $ pwd
 [Discord](https://discord.gg/s5SZHRxJan)
 
 ## Tutoriales 🎥
-> Tutoriales para resolver hackeos tipo Capture the flag en TryhackMe (CTF)
-[TryHackMe](https://www.youtube.com/watch?v=kx_1PCmRZb0&list=PL7unP9iNmRYaQE87epTLEVOf3hJ3-hPcE)
+> Canal de Youtube
+[TryHackMe](https://www.youtube.com/channel/UCTDFKIYJ4KIfZGE66w99lJQ)
 
-
-## Cursos y eventos
-> Te interesa aprender de hackeo etico? Quieres tomar un curso en vivo con nosotros? Consulta aqui la informacion:
-[Evenbrite](#)
-
-
-## Libreria Gratuita 📙
+## Libreria 📙
 
 ### Certified Ethical Hacker
 > Guia rapida para la certificacion de hackeo etico (CEH)
 [EC-Coucil CEH Oficial](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
-#### TEMARIO
+##### TEMARIO
 * **[1. Introducción a Ethical Hacking](https://the-casuals-security.github.io/Introduccion/)** 
 * **[2. Footprinting y Reconocimiento](https://the-casuals-security.github.io/Footprinting/)**
 * **[3. Escaneo de red](https://the-casuals-security.github.io/Escaneo/)**
