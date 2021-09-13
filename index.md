@@ -28,8 +28,6 @@ $ pwd
 ## Libreria 📙
 
 ### Certified Ethical Hacker
-
-### Certified Ethical Hacker
 > Guia rapida para la certificacion de hackeo etico (CEH)
 [EC-Coucil CEH Oficial](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
