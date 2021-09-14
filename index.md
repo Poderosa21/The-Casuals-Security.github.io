@@ -6,14 +6,11 @@ title: Inicio
 
 
 ```markdown
-$ whoami
-> Crew Pentest 🔐
 
-$ ps | grep 'objetive'
->  Learning Cybersecurity 🧠
-
-$ pwd
-> Mexican 🇲🇽
+Bienvenido a The Casuals Security 💻 🕵🏻‍♂️
+Somos un Crew de Pentest en Mexico 🇲🇽
+Buscamos compartir nuestro conocimiento 🧠
+Canal de apoyo para los estudiantes de Cyberseguridad 🔐
 
 ```
 
