@@ -4,14 +4,11 @@
 [Pagina Web](https://the-casuals-security.github.io/) 
 
 ```markdown
-$ whoami
-> Crew Pentest 🔐
 
-$ ps | grep 'objetive'
->  Learning Cybersecurity 🧠
-
-$ pwd
-> Mexican 🇲🇽
+Bienvenido al canal The Casuals Security 💻 🕵🏻‍♂️
+Somos un Crew de Pentest en Mexico 🇲🇽
+Buscamos compartir nuestro conocimiento 🧠
+Canal de apoyo para los estudiantes de Cyberseguridad 🔐
 
 ```
 ## Nuestro Canal 💬
