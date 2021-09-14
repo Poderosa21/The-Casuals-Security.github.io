@@ -5,7 +5,7 @@
 
 ```markdown
 
-Bienvenido al canal The Casuals Security 💻 🕵🏻‍♂️
+Bienvenido a The Casuals Security 💻 🕵🏻‍♂️
 Somos un Crew de Pentest en Mexico 🇲🇽
 Buscamos compartir nuestro conocimiento 🧠
 Canal de apoyo para los estudiantes de Cyberseguridad 🔐
